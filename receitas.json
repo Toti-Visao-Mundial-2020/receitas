@@ -32,13 +32,13 @@
       "4 ovos inteiros",
       "1 xícara de açucar",
       "1 colher (sopa) de fermento em pó",
-      "2 colhers de (sopa) do queijo parmesao",
-],
+      "2 colhers de (sopa) do queijo parmesao"
+    ],
     "modoPreparo": [
       "1 Coloque todos os ingredientes no loquidificador e bata até que se forme uma mistura bem homogenea",
       "2 Unte uma forma de oco no meio e leve a massa para assar em formo bem quente até dourar",
-      "3 Bom Apetite",
-]
+      "3 Bom Apetite"
+    ]
   },
   {
     "titulo": "Tacacá",
@@ -53,10 +53,10 @@
       "4 dentes de alho bem amassados",
       "3 pimentas-de-cheiro",
       "2 maços de jambu",
-      "2 litros de tucupi"    	
+      "2 litros de tucupi"
     ],
     "modoPreparo": [
-	  "Coloque o tucupi em uma panela com o alho bem amassado, o sal, a chicória e as pimentas.",
+      "Coloque o tucupi em uma panela com o alho bem amassado, o sal, a chicória e as pimentas.",
       "Leve ao fogo.",
       "Quando começar a ferver, abaixe o fogo, tampe a panela e deixe cozinhar por 30 minutos aproximadamente.",
       "Simultaneamente em outra panela, cozinhe o jambu até ficar tenro.",
@@ -68,39 +68,39 @@
       "Sirva em uma cuia com uma concha de tucupi, um pouco do mingau, algumas folhas de jambu e os camarões."
     ]
   },
-    {
+  {
     "titulo": "Brigadeiro",
     "autor": "Mohamed",
     "foto": "https://i.imgur.com/XwW6lds.jpeg",
     "ingredientes": [
-    "1 caixa de leite condensado",
-    "1 colher (sopa) de margarina sem sal",
-    "7 colheres (sopa) de achocolatado ou 4 colheres (sopa) de chocolate em pó",
-    "chocolate granulado"
-  ],
+      "1 caixa de leite condensado",
+      "1 colher (sopa) de margarina sem sal",
+      "7 colheres (sopa) de achocolatado ou 4 colheres (sopa) de chocolate em pó",
+      "chocolate granulado"
+    ],
     "modoPreparo": [
-    "Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó.",
-    "Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela." ,
-    "Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
-  ]
+      "Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó.",
+      "Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela.",
+      "Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
+    ]
   },
   {
     "titulo": "pao",
     "autor": "Christians",
     "foto": "https://www.cocinatis.com/media/photologue/photos/cache/recetas-hacer-pan-casero-facil-cuarentena_desktop_horizontal_full_width.jpg",
-    "ingredientes": [ 
-      "1kg de farinha", 
+    "ingredientes": [
+      "1kg de farinha",
       "50g de fermento",
       " 200g Margarina",
       "2 colheres de sopa de óleo",
       "1 cdts Azúcar",
       "Sal 10g",
       "2 xícaras de água morna"
-      ],
-    "modoPreparo": [ 
-    "Em uma tigela coloque a farinha, o fermento e a gordura misturando tudo, depois adicione o óleo e o açúcar e continue misturando",
-    " Em seguida, adicione a água e o sal e misture tudo amassando. Deixe a massa descansar por 20 minutos.",
-    "Depois de descansar, dê à massa a forma desejada e leve ao forno a 200º por aproximadamente 40 minutos."
-  ]
+    ],
+    "modoPreparo": [
+      "Em uma tigela coloque a farinha, o fermento e a gordura misturando tudo, depois adicione o óleo e o açúcar e continue misturando",
+      " Em seguida, adicione a água e o sal e misture tudo amassando. Deixe a massa descansar por 20 minutos.",
+      "Depois de descansar, dê à massa a forma desejada e leve ao forno a 200º por aproximadamente 40 minutos."
+    ]
   }
 ]
